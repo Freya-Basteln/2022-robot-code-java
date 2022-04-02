@@ -15,7 +15,7 @@ import edu.wpi.first.wpilibj2.command.button.JoystickButton;
 
 
 //commands 
-
+//this is where we would put auto code if we wanted it 
 //subsystems
 import frc.robot.subsystems.DriveSubSystem;
 import frc.robot.subsystems.ShooterSubSystem;
